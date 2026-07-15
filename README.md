@@ -1,24 +1,20 @@
-::: {align="center"}
+<div align="center">
+
 # Jairus Samraj Solomon
 
-### DFT Engineer \| ASIC Design \| RTL → GDSII \| Static Timing Analysis
+### DFT Engineer | ASIC Design | RTL → GDSII | Static Timing Analysis
 
 *Designing reliable and testable silicon from RTL to tapeout.*
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Design+for+Testability+(DFT)+Engineer;RTL+%E2%86%92+GDSII+ASIC+Design;Static+Timing+Analysis+(STA);Cadence+%E2%80%A2+Synopsys+%E2%80%A2+OpenLane;IEEE+Author;Building+Reliable+and+Testable+Silicon" alt="Typing SVG" />`{=html}
-```{=html}
-</p>
-```
-:::
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Design+for+Testability+(DFT)+Engineer;RTL+→+GDSII+ASIC+Design;Static+Timing+Analysis+(STA);Cadence+•+Synopsys+•+OpenLane;IEEE+Author;Building+Reliable+and+Testable+Silicon" />
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 # 🖥️ System Overview
 
-``` python
+```python
 class JairusSamrajSolomon:
 
     def __init__(self):
@@ -55,16 +51,3 @@ class JairusSamrajSolomon:
 engineer = JairusSamrajSolomon()
 print(engineer.mission())
 ```
-
-------------------------------------------------------------------------
-
-> 🚧 **Silicon Control Center is under construction.**
-
-Upcoming sections:
-
--   ⚙️ EDA Stack
--   🔄 RTL → GDSII Design Pipeline
--   🧪 Test Bench (Featured Projects)
--   📚 Research Archive
--   📊 Lab Metrics
--   📬 Communication Ports
