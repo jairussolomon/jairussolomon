@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Name Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jairus%20Samraj%20Solomon&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ASIC%20%2F%20VLSI%20Design%20Engineer%20•%20RTL-to-GDSII%20•%20RISC-V&descAlignY=60&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jairus%20Samraj%20Solomon&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ASIC%20%2F%20VLSI%20Design%20Engineer%20•%20RTL-to-GDSII%20•%20DFT%20•%20RISC-V&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -200,24 +200,24 @@ endmodule
 <div align="center">
 
 <a href="https://github.com/jairussolomon/Synthera">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Synthera&theme=midnight-purple&bg_color=0d1117&title_color=CE1126&description=RTL-to-Gate+Synthesis+%2B+DFT+Scan+Insertion+(Cadence+Genus)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Synthera&theme=midnight-purple&bg_color=0d1117" />
 </a>
 <a href="https://github.com/jairussolomon/Solthera">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Solthera&theme=midnight-purple&bg_color=0d1117&title_color=0EA5E9&description=Physical+Design+%26+Timing+Closure+Flow+(Cadence+Innovus)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Solthera&theme=midnight-purple&bg_color=0d1117" />
 </a>
 
 <a href="https://github.com/jairussolomon/Nythera">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Nythera&theme=midnight-purple&bg_color=0d1117&title_color=0EA5E9&description=Global+Timing+Debug+%26+Signoff+Analysis+(Cadence+Tempus)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Nythera&theme=midnight-purple&bg_color=0d1117" />
 </a>
 <a href="https://github.com/jairussolomon/Fluxera">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Fluxera&theme=midnight-purple&bg_color=0d1117&title_color=CE1126&description=Caravel-Integrated+RISC-V+SoC+%7C+OpenLane+%2B+Sky130" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Fluxera&theme=midnight-purple&bg_color=0d1117" />
 </a>
 
 <a href="https://github.com/jairussolomon/Nexaris">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Nexaris&theme=midnight-purple&bg_color=0d1117&title_color=0EA5E9&description=Hierarchical+Floorplanning+%26+Power+Planning+(Innovus)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Nexaris&theme=midnight-purple&bg_color=0d1117" />
 </a>
 <a href="https://github.com/jairussolomon/Xytrix">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Xytrix&theme=midnight-purple&bg_color=0d1117&title_color=CE1126&description=Gate-Level+Simulation+%2B+SDF+Timing+Verification+(Xcelium)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Xytrix&theme=midnight-purple&bg_color=0d1117" />
 </a>
 
 </div>
