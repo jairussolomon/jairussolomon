@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Name Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jairus%20Samraj%20Solomon&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DFT%20%2F%20ASIC%20Design%20Engineer%20•%20Scan%20•%20ATPG%20•%20BIST&descAlignY=60&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jairus%20Samraj%20Solomon&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ASIC%20%2F%20VLSI%20Design%20Engineer%20•%20RTL-to-GDSII%20•%20RISC-V&descAlignY=60&descSize=17&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Design-for-Testability+Engineer+%F0%9F%A7%A9;Scan+%7C+ATPG+%7C+LBIST%2FMBIST+%F0%9F%94%8C;RTL-to-GDSII+%7C+RISC-V+%7C+Timing+Closure+%E2%9A%A1;VIT+Chennai+%F0%9F%8F%AB;Lead+Engineer+%40+NoEtherX+Labs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=RTL-to-GDSII+%7C+RISC-V+%7C+Timing+Closure+%E2%9A%A1;Design-for-Testability+(DFT)+%F0%9F%A7%A9;Physical+Design+%7C+Scan+%7C+ATPG+%F0%9F%94%8C;VIT+Chennai+%F0%9F%8F%AB;Lead+Engineer+%40+NoEtherX+Labs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,6 +19,8 @@
 <br/><br/>
 
 ![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-Design--for--Testability_(DFT)-CE1126?style=for-the-badge)
+&nbsp;
+![Currently](https://img.shields.io/badge/Currently-NoEtherX_Labs_(Remote_Intern)-1a1a2e?style=for-the-badge&labelColor=2c5364)
 
 </div>
 
@@ -154,6 +156,23 @@ endmodule
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+
+![Cadence DFT](https://img.shields.io/badge/Cadence_Design_for_Test_Fundamentals_v25.1-CE1126?style=flat-square)
+![Cadence RTL2GDSII](https://img.shields.io/badge/Cadence_RTL--to--GDSII_Flow_v5.0-0EA5E9?style=flat-square)
+![Cadence STA](https://img.shields.io/badge/Cadence_Basic_STA_v2.0-0EA5E9?style=flat-square)
+![Digital IP](https://img.shields.io/badge/Digital_IP_Overview_%E2%80%93_Design_%26_Verification-2C5364?style=flat-square)
+![Functional Verification DFT](https://img.shields.io/badge/Functional_Verification_%26_DFT-CE1126?style=flat-square)
+![PD Flow](https://img.shields.io/badge/Physical_Design_Flow%2C_Synthesis_%26_STA_Basics-0EA5E9?style=flat-square)
+![SRAM ROM](https://img.shields.io/badge/SRAM%2FROM_Architecture_%26_Design-2C5364?style=flat-square)
+![Systems Architecture](https://img.shields.io/badge/Systems_Architecture_%26_Frontend_Engineering-2C5364?style=flat-square)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -172,6 +191,35 @@ endmodule
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jairussolomon&bg_color=0d1117&color=0ea5e9&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## 📌 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/jairussolomon/Synthera">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Synthera&theme=midnight-purple&bg_color=0d1117&title_color=CE1126&description=RTL-to-Gate+Synthesis+%2B+DFT+Scan+Insertion+(Cadence+Genus)" />
+</a>
+<a href="https://github.com/jairussolomon/Solthera">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Solthera&theme=midnight-purple&bg_color=0d1117&title_color=0EA5E9&description=Physical+Design+%26+Timing+Closure+Flow+(Cadence+Innovus)" />
+</a>
+
+<a href="https://github.com/jairussolomon/Nythera">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Nythera&theme=midnight-purple&bg_color=0d1117&title_color=0EA5E9&description=Global+Timing+Debug+%26+Signoff+Analysis+(Cadence+Tempus)" />
+</a>
+<a href="https://github.com/jairussolomon/Fluxera">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Fluxera&theme=midnight-purple&bg_color=0d1117&title_color=CE1126&description=Caravel-Integrated+RISC-V+SoC+%7C+OpenLane+%2B+Sky130" />
+</a>
+
+<a href="https://github.com/jairussolomon/Nexaris">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Nexaris&theme=midnight-purple&bg_color=0d1117&title_color=0EA5E9&description=Hierarchical+Floorplanning+%26+Power+Planning+(Innovus)" />
+</a>
+<a href="https://github.com/jairussolomon/Xytrix">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jairussolomon&repo=Xytrix&theme=midnight-purple&bg_color=0d1117&title_color=CE1126&description=Gate-Level+Simulation+%2B+SDF+Timing+Verification+(Xcelium)" />
+</a>
+
 </div>
 
 ---
@@ -224,6 +272,17 @@ endmodule
 </a>
 
 </div>
+
+---
+
+## 🎸 Beyond the Chip
+
+```
+🧩  Rubik's Cube Solving (up to 11x11)
+🎹  Playing Piano & Guitar
+🏀  Basketball, Football, Volleyball (School/College Team)
+💪  Fitness & Strength Training
+```
 
 ---
 
