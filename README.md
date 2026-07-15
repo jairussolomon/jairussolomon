@@ -65,10 +65,11 @@ endmodule
 
 ---
 
-## 🧬 DFT Specialization
+## 🧬 Engineering Specialization
 
 <div align="center">
 
+**Primary Focus**
 ![Scan Insertion](https://img.shields.io/badge/Scan_Insertion-CE1126?style=for-the-badge)
 ![ATPG](https://img.shields.io/badge/ATPG-CE1126?style=for-the-badge)
 ![LBIST](https://img.shields.io/badge/LBIST-CE1126?style=for-the-badge)
@@ -78,22 +79,40 @@ endmodule
 ![OPCG](https://img.shields.io/badge/OPCG_At--Speed_Test-CE1126?style=for-the-badge)
 ![Test_Compression](https://img.shields.io/badge/Test_Compression-CE1126?style=for-the-badge)
 
+**Also Skilled In**
+![RTL Design](https://img.shields.io/badge/RTL_Design-0EA5E9?style=for-the-badge)
+![Synthesis](https://img.shields.io/badge/Synthesis-0EA5E9?style=for-the-badge)
+![Floorplanning](https://img.shields.io/badge/Floorplanning-0EA5E9?style=for-the-badge)
+![Placement_Routing](https://img.shields.io/badge/Placement_%26_Routing-0EA5E9?style=for-the-badge)
+![CTS](https://img.shields.io/badge/Clock_Tree_Synthesis-0EA5E9?style=for-the-badge)
+![STA_Signoff](https://img.shields.io/badge/STA_%26_Timing_Signoff-0EA5E9?style=for-the-badge)
+![DRC_LVS](https://img.shields.io/badge/DRC_%2F_LVS_Signoff-0EA5E9?style=for-the-badge)
+![PDN](https://img.shields.io/badge/Power_Delivery_(PDN)-0EA5E9?style=for-the-badge)
+
 </div>
 
 ```
-🔍  DFT Infrastructure
+🔍  DFT (Primary Focus)
      └─ Scan chain insertion & test signal definition (Cadence Genus DFT)
      └─ DFT rule checking + ATPG readiness for manufacturing test
      └─ Power-aware ATPG, test compression, chiplet-level DFT
-
-🧠  At-Speed & Clocking for Test
-     └─ On-chip clock generation (OPCG) across Synopsys TestMAX,
-        Cadence Modus DFT, Siemens Tessent
-     └─ LOC/LOS capture, scan-enable synchronization
-
-🛡️  Reliability & Security
+     └─ On-chip clock generation (OPCG) across TestMAX, Modus DFT, Tessent
      └─ Secure scan architectures, LBIST/MBIST integration
-     └─ ML-guided ATPG and reliability-aware test strategies
+
+🧱  ASIC Front-End
+     └─ RTL design & elaboration in Verilog/SystemVerilog
+     └─ RTL-to-gate synthesis, technology mapping, retiming (Cadence Genus)
+     └─ Gate-level simulation with SDF back-annotation (Cadence Xcelium)
+
+🏗️  Physical Design
+     └─ Hierarchical floorplanning, macro planning, PDN design (Innovus)
+     └─ Placement, CTS, routing with congestion-driven optimization
+     └─ Macro-based hierarchical integration (Caravel/OpenLane)
+
+⏱️  Timing & Signoff
+     └─ Post-CTS/post-route timing debug (Cadence Tempus)
+     └─ Setup/hold closure, DRC/LVS verification (Netgen, KLayout)
+     └─ Full RTL-to-GDSII tapeout signoff
 ```
 
 ---
@@ -153,14 +172,6 @@ endmodule
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jairussolomon&bg_color=0d1117&color=0ea5e9&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jairussolomon&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" />
 </div>
 
 ---
